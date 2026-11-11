@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Configurações pessoais
+*.csproj.user
